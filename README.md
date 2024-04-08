@@ -18,7 +18,7 @@ Key Features:
 
 - Responsive Design: Designed to be fully responsive and compatible with a wide range of devices and screen sizes, SecureGen offers a consistent and optimized user experience across desktop, tablet, and mobile platforms.
 
-- <img title="a title" alt="Alt text" src="/images/boo.svg">
+- <img title="a title" alt="Alt text" src="./screenshot.png">
 
 Given links are available:
 
